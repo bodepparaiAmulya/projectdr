@@ -1,0 +1,1 @@
+git is used for both programmers and non technical users
